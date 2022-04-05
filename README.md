@@ -55,7 +55,7 @@ as much as I can about computer science and programming languages.
 
 ### <img src=https://user-images.githubusercontent.com/101679632/158604048-f7c56481-76a4-4c7a-a73a-fdd4f4728798.gif width=75px/> Contact me!
 Discord: kazIsCool#2267
-Email: harimn2004@gmail.com
+  <br/>Email: harimn2004@gmail.com
 
 
 
