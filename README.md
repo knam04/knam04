@@ -7,7 +7,7 @@
     <br/> I like creating games in various engines and learning
       <br/>
 as much as I can about computer science and programming languages.
-My School Github: https://github.com/kaynam23
+   <br/> My School Github: https://github.com/kaynam23
   </samp>
   <br/>
   <br/>
