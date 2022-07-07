@@ -2,7 +2,7 @@
 
 <p align="center" >
   <samp>
-    My name is <b>Kaz</b>! I am a high school junior in the United States 
+    My name is <b>Kaz</b>! I am a high school senior in the United States 
   <br/> currently studying Java, Python, SQL, C#, C, and more! 
     <br/> I like creating games in various engines and learning
       <br/>
@@ -14,12 +14,11 @@ as much as I can about computer science and programming languages.
 </p>
 
 ### <img src=https://user-images.githubusercontent.com/101679632/158602240-f4b4a886-40f1-4c83-8cec-5fb8e15badbf.gif width=75px/> Currently working on...
-- Tower Defense Game with friends
+- Puzzle Platformer
 
 ### <img src=https://user-images.githubusercontent.com/101679632/158604328-a62e2767-3de6-4ffe-8b95-7055718b6243.gif width=75px/> Currently studying...
-- Computer Security using C
-- Web App Development with SQL databases
-- Functional Programming in Scheme
+- HTML and CSS with Girls Who Code
+- SANS Foundations Cybersecurity
 
 ### <img src=https://user-images.githubusercontent.com/101679632/158604932-2d4da882-7a0e-4bfd-8468-8fd7eb022f8a.gif width=75px/> Stuff I know...
 
