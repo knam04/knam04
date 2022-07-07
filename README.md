@@ -19,6 +19,7 @@ as much as I can about computer science and programming languages.
 ### <img src=https://user-images.githubusercontent.com/101679632/158604328-a62e2767-3de6-4ffe-8b95-7055718b6243.gif width=75px/> Currently studying...
 - HTML and CSS with Girls Who Code
 - SANS Foundations Cybersecurity
+- Unity Junior Programmer Pathway
 
 ### <img src=https://user-images.githubusercontent.com/101679632/158604932-2d4da882-7a0e-4bfd-8468-8fd7eb022f8a.gif width=75px/> Stuff I know...
 
