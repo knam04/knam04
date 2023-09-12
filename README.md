@@ -4,9 +4,9 @@
   <samp>
     My name is <b>Kaz</b>! I am a freshman at Rice University
   <br/> currently studying Java, Python, SQL, C#, C, and more! 
-    <br/> I like learning as much as I
+    <br/> I like learning as much as I can about
       <br/>
- can about computer science and cognitive science.
+ computer science and cognitive science.
    <br/> My School Github: https://github.com/kaynam23
   </samp>
   <br/>
