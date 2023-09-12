@@ -2,7 +2,7 @@
 
 <p align="center" >
   <samp>
-    My name is <b>Kaz</b>! I am a high school senior in the United States 
+    My name is <b>Kaz</b>! I am a freshman at Rice University
   <br/> currently studying Java, Python, SQL, C#, C, and more! 
     <br/> I like creating games in various engines and learning
       <br/>
