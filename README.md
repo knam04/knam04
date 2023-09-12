@@ -4,9 +4,9 @@
   <samp>
     My name is <b>Kaz</b>! I am a freshman at Rice University
   <br/> currently studying Java, Python, SQL, C#, C, and more! 
-    <br/> I like creating games in various engines and learning
+    <br/> I like learning as much as I
       <br/>
-as much as I can about computer science and programming languages.
+ can about computer science and cognitive science.
    <br/> My School Github: https://github.com/kaynam23
   </samp>
   <br/>
@@ -15,12 +15,11 @@ as much as I can about computer science and programming languages.
 </p>
 
 ### <img src=https://user-images.githubusercontent.com/101679632/158602240-f4b4a886-40f1-4c83-8cec-5fb8e15badbf.gif width=75px/> Currently working on...
-- Puzzle Platformer
+- TBA
 
 ### <img src=https://user-images.githubusercontent.com/101679632/158604328-a62e2767-3de6-4ffe-8b95-7055718b6243.gif width=75px/> Currently studying...
-- HTML and CSS with Girls Who Code
-- SANS Foundations Cybersecurity
-- Unity Junior Programmer Pathway
+- Computational Thinking
+- Introduction to Cognitive Science
 
 ### <img src=https://user-images.githubusercontent.com/101679632/158604932-2d4da882-7a0e-4bfd-8468-8fd7eb022f8a.gif width=75px/> Stuff I know...
 
