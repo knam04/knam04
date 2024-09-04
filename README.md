@@ -2,7 +2,7 @@
 
 <p align="center" >
   <samp>
-    My name is <b>Kaz</b>! I am a freshman at Rice University
+    My name is <b>Kaz</b>! I am a sophomore at Rice University
   <br/> currently studying Java, Python, SQL, C#, C, and more! 
     <br/> I like learning as much as I can about
       <br/>
@@ -18,8 +18,11 @@
 - TBA
 
 ### <img src=https://user-images.githubusercontent.com/101679632/158604328-a62e2767-3de6-4ffe-8b95-7055718b6243.gif width=75px/> Currently studying...
-- Computational Thinking
-- Introduction to Cognitive Science
+- Introduction to Program Design
+- Introduction to Computer Organization
+- Psychology of Perception
+- Probability and Statistics
+- Sciences of the Mind
 
 ### <img src=https://user-images.githubusercontent.com/101679632/158604932-2d4da882-7a0e-4bfd-8468-8fd7eb022f8a.gif width=75px/> Stuff I know...
 
@@ -54,8 +57,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ### <img src=https://user-images.githubusercontent.com/101679632/158604048-f7c56481-76a4-4c7a-a73a-fdd4f4728798.gif width=75px/> Contact me!
-Discord: kazIsCool#2267
-  <br/>Email: harimn2004@gmail.com
+  <br/>Email: kaynam2027@gmail.com
 
 
 
